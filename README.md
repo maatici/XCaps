@@ -6,3 +6,5 @@ This model is designed to combine advantages of XCeption and Capsule networks fo
 In the original Xception architecture, after the global average pooling, instead of 2048-sized vectors and fully connected layer, the dynamic routing layer of the capsule architecture is used in this proposed XCaps architecture.
 
 Capsule implementation was taken from  https://github.com/bojone/Capsule/ in 2019.
+
+This model is firstly proposed in Ph.D. thesis "DETECTING BRAIN TUMORS USING DEEP LEARNING APPROACHES" in July 2020.
